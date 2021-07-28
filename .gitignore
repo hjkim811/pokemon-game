@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# 추가
+.idea/
+__pycache__/
+참고/
