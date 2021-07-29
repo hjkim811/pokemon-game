@@ -24,7 +24,6 @@ python pockemon_main.py
 ```
 
 <br />
-<br />
 
 <p align="center">
   <img src="images/start.png" width="400">
